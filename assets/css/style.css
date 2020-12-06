@@ -343,22 +343,22 @@ body {
       margin-left: -28px; }
     .rit-cover .about .btn-link li a {
       color: #888; }
-.rit-cover .work-exp {
+.rit-cover .projects {
   padding: 5px 0px; }
-  .rit-cover .work-exp h6 {
+  .rit-cover .projects h6 {
     font-size: .9rem;
     margin-bottom: 0px; }
-    .rit-cover .work-exp h6 span {
+    .rit-cover .projects h6 span {
       float: right;
       font-size: .8rem; }
-  .rit-cover .work-exp i {
+  .rit-cover .projects i {
     font-size: .9rem; }
-  .rit-cover .work-exp ul {
+  .rit-cover .projects ul {
     padding: 5px 0px; }
-    .rit-cover .work-exp ul li {
+    .rit-cover .projects ul li {
       font-size: .9rem;
       padding-left: 5px; }
-      .rit-cover .work-exp ul li i {
+      .rit-cover .projects ul li i {
         margin-right: 5px; }
 .rit-cover .education {
   padding: 20px 0px; }
